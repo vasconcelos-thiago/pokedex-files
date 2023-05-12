@@ -18,3 +18,4 @@ STATUS CODE: 200
 <!-- toda requisição recebe uma resposta  -->
 responde headers 
 response body 
+.
